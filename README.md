@@ -1,10 +1,10 @@
-** Excel_Analysis**
+**Excel_Analysis**
 
 **Project Overview**
 This Excel capstone project analyzes healthcare data containing medical examinations, hospitalization details, and customer profiles. The goal is to clean, transform, and merge datasets to uncover insights related to patient profiles, medical history, healthcare utilization, and total charges. The final output includes an interactive dashboard with slicers and visual analytics.
 
 **1. Data Cleaning
-** Missing Values**
+  Missing Values**
 
 * Counted missing values (?) in Medical Examinations and Hospitalization Details tables.
 * Filled missing month with Sep and year with the rounded average year.
